@@ -1,0 +1,2 @@
+D:\Stripe integration\Stripe Integration\LiveChatAPP\vueapp\obj\Debug\vueapp.esproj.SuggestedBindingRedirects.cache
+D:\Stripe integration\Stripe Integration\LiveChatAPP\vueapp\obj\Debug\vueapp.esproj.CoreCompileInputs.cache
